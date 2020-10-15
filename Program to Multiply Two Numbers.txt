@@ -1,1 +1,0 @@
-Enter two numbers: Product = 4.16
