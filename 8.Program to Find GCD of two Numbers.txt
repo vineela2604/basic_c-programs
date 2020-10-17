@@ -1,0 +1,1 @@
+Enter two integers: G.C.D of 2 and 4 is 2
